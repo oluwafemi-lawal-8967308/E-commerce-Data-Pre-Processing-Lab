@@ -1,0 +1,5 @@
+coupon_code,description,discount_pct
+NOCOUP,No promotion applied,0
+SAVE10,10% off standard items,10
+SAVE15,15% off select items,15
+VIP20,20% VIP customer promo,20
